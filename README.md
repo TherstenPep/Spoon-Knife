@@ -1,4 +1,4 @@
-### Well hello there!
+### Well hello there! terpep@protonmail.com
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
